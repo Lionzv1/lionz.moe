@@ -10,7 +10,7 @@ A very simple personal website, written in HTML.
 Either download or clone this repo and just drop into your public_html folder on your webhost/server.
 
 ```
-
+```
 ## Release History
 
 * 0.1.0
