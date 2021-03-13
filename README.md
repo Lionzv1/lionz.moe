@@ -1,9 +1,6 @@
 # lionz.moe
 > Lionz's personal website
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 A very simple personal website, written in HTML.
 
 ![](header.png)
