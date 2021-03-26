@@ -19,6 +19,8 @@ Either download or clone this repo and just drop into your public_html folder on
     * Added about-me.html
 * 0.1.2
     * Added page2.html
+    * 0.1.3
+    * Added sub menu osu! server 
 
 ## Meta
 
