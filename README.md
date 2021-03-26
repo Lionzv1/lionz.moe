@@ -8,7 +8,7 @@ A very simple personal website, written in HTML.
 ## Installation
 
 Either download or clone this repo and just drop into your public_html folder on your webhost/server.
-
+Make sure to configure to your liking, its hardcoded so enjoy changing everything if you decide to kek
 ```
 ```
 ## Release History
